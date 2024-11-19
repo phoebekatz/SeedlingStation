@@ -1,6 +1,7 @@
 // MM2 Final Project Code
 // Phoebe Katz
 // Nov 19, 2024.
+// just temp sensor, NO SD card or saving data
 
 #include <Adafruit_Sensor.h>
 #include <Adafruit_AHTX0.h>
