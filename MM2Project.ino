@@ -1,6 +1,7 @@
 // MM2 Final Project Code
 // Phoebe Katz
 // Nov 19, 2024.
+// reads temp every 10 min, records to data file on microSD card
 
 #include <Adafruit_Sensor.h>
 #include <Adafruit_AHTX0.h>
